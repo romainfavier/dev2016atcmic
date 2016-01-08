@@ -20,8 +20,8 @@ body { font: normal 14px/16px "Myriad Pro", Arial, Helvetica, sans-serif; backgr
 
 #header { height:137px;  width:100%; float:left; background:#f0e8d4 url(../images/headerbg.jpg) repeat-x bottom; }
 .logo { background:url(../images/logobg.png) no-repeat; width:258px; height:105px; margin-left:26px; text-align:center; float:left;}
-.logo h1 { color:#FFF; font:normal 32px/25px "Myriad Pro", Arial, Helvetica, sans-serif; padding-top:45px; text-transform:uppercase;}
-.logo p  { color:#aaa780;}
+.logo h1 { color:#FFF; font:normal 29px/29px "Myriad Pro", Arial, Helvetica, sans-serif; padding-top:45px; text-transform:uppercase;}
+.logo p  { color:#aaa780; font:normal 21px/21px "Myriad Pro";}
 
 .nav { float:right; margin-top:71px; margin-right:57px}
 .nav ul li { text-transform:uppercase; display:inline; padding: 0 20px;}
