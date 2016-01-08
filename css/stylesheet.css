@@ -27,7 +27,7 @@ body { font: normal 14px/16px "Myriad Pro", Arial, Helvetica, sans-serif; backgr
 .nav ul li { text-transform:uppercase; display:inline; padding: 0 20px;}
 .nav ul li a { color:#4d300f;text-decoration:none;}
 
-#continertopbg { background:url(../images/containerbgtop.png) no-repeat scroll 31px 27px; float:left; width:100%;}
+#continertopbg { background:url(../images/containerbgtop.png) no-repeat scroll; float:left; width:100%;}
 #continerbottombg {  background:url(../images/containerbgbottom.png) no-repeat bottom; float:left; width:100%;}
 #continer { float:left; width:100%; color:#4d300f; padding-top:68px; padding-bottom:35px;}
 
