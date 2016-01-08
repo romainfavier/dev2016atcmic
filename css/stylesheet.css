@@ -38,7 +38,7 @@ body { font: normal 14px/16px "Myriad Pro", Arial, Helvetica, sans-serif; backgr
 .block2 { width:390px; color:#FFF;}
 .block2 p {  font:normal 18px/25px "Myriad Pro", Arial, Helvetica, sans-serif; color:#4d300f; margin-top:15px; }
 .block2heder { background:url(../images/block2headbg.jpg) no-repeat; width:380px; height:47px; text-transform:uppercase; padding-left:10px; padding-top:17px;}
-.block2heder h1 {  font:normal 24px/20px "Myriad Pro", Arial, Helvetica, sans-serif;margin-bottom:15px; }
+.block2heder h1 {  font:normal 16px/16px "Myriad Pro", Arial, Helvetica, sans-serif;margin-bottom:15px; }
 .block2heder span {  font:normal 18px/18px "Myriad Pro", Arial, Helvetica, sans-serif; }
 .blue, .green { float:left; width:170px; margin-top:50px;}
 
